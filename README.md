@@ -14,8 +14,9 @@ Windows:
 idk try wsl ok idk ive never used the make command on windows 10
 win7 = g++ mucking
 
-DGC(Direct Graphics Control, its a libary thingy):
-almost the same as the gl test app
+DWC(Direct Window Control, its a libary thingy):
+same as gltestlib
+
 
 #### Features
 idk its a "gpu" Tester();
